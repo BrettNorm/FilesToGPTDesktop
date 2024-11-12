@@ -8,7 +8,6 @@
 - **File Management**: Check or uncheck files to include/exclude them from the final prompt. Remove files from the list as needed.
 - **Task Description**: Enter a task description that integrates with your selected files.
 - **Token Counting**: Estimate the number of tokens in your final prompt using OpenAI's `tiktoken` library.
-- **Dark Mode**: Toggle between light and dark themes for better visibility.
 - **Export Options**: Copy the final prompt to the clipboard or save it as a `.txt` file.
 
 ## Setup Instructions
